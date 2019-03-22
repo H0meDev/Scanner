@@ -136,9 +136,6 @@ author: Hannoch
 · https://github.com/lijiejie/htpwdScan
 (pythonHTTP弱传递扫描器)
 
-· https://github.com/ysrc/F-Scrack
-(单文件蛮力支持多协议)
-
 · https://github.com/Mebus/cupp
 (普通用户密码分析器)
 
