@@ -63,9 +63,6 @@ author: Hannoch
 · https://github.com/laramies/theHarvester
 (电子邮件、子域名和人名收割机)
 
-· https://github.com/swisskyrepo/Subdomino
-(一个枚举子域的应用程序，并用几个规则扫描它们)
-
 · https://github.com/nmalcolm/Inventus
 (蜘蛛)通过爬行来寻找特定领域的子域
 
