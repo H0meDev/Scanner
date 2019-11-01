@@ -666,7 +666,7 @@ author: Hannoch
 (自动渗透测试框架)
 
 · https://github.com/Tuhinshubhra/RED_HAWK
-(一个用于收集信息、SQL漏洞扫描和爬行的全部集成工具。(用PHP编码)
+(一个用于收集信息、SQL漏洞扫描和爬行的全部集成工具。用PHP编码)
 
 · https://github.com/Arachni/arachni
 (Web应用程序安全扫描框架)
@@ -702,10 +702,10 @@ author: Hannoch
 (分布式Web漏洞扫描框架)
 
 · https://github.com/yangbh/Hammer
-(web漏洞扫描器框架)
+(web漏洞扫描框架)
 
 · https://github.com/Lucifer1993/AngelSword
-(基于上的web漏洞扫描框架)
+(web漏洞扫描框架)
 
 · https://github.com/secrary/EllaScanner
 (被动Web扫描程序，您可以获得与服务器版本相关的CVEs)
@@ -714,10 +714,10 @@ author: Hannoch
 (世界上最受欢迎的免费安全工具之一，由数百名国际志愿人员积极维护)
 
 · https://github.com/sullo/nikto
-(nikto是一个web服务器评估工具)。它旨在查找各种默认的和不安全的文件、配置和程序，无论是哪种web服务器都是这样的。
+(nikto是一个web服务器评估工具)。它旨在查找各种默认的和不安全的文件、配置和程序。
 
 · https://github.com/UltimateHackers/Striker
-(前锋是一种攻击性信息和漏洞扫描器)
+(一种攻击性信息和漏洞扫描器)
 
 · https://github.com/dermotblair/webvulscan
 (用php编写并可以用于测试远程或本地web应用程序以获得安全漏洞)
@@ -734,7 +734,7 @@ author: Hannoch
 # 十五、一些工具与APT有关。
 
 · https://github.com/Neo23x0/Loki
-(简单国际奥委会和事件反应扫描仪)
+(简单的IOC和事件响应扫描器)
 
 # 十六、一些工具与ICS相关。
 
