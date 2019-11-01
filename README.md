@@ -21,9 +21,6 @@ author: Hannoch
 · https://github.com/le4f/dnsmaper
 (带有地图记录的子域枚举工具)
 
-· https://github.com/0xbug/orangescan
-(联机子域枚举工具)
-
 · https://github.com/TheRook/subbrute
 (dns元查询蜘蛛，枚举dns记录，以及子域，支持api)
 
