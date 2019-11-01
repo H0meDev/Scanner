@@ -40,7 +40,7 @@ author: Hannoch
 (找兄弟域)
 
 · https://github.com/chuhades/dnsbrute
-(快速域野蛮工具)
+(快速域爆破工具)
 
 · https://github.com/yanxiu0614/subdomain3
 (一个简单而快速的子域生成工具)
@@ -81,10 +81,7 @@ author: Hannoch
 (通过sqlmap和charles进行的一个基于漏洞的漏洞扫描)
 
 · https://github.com/stamparm/DSSS
-(SQLi漏洞扫描器有99行代码)
-
-· https://github.com/LoRexxar/Feigong
-(用于MySQL的SQLi漏洞扫描器)
+(SQLi漏洞扫描器)
 
 · https://github.com/youngyangyang04/NoSQLAttack
 (用于mongodb的一个基于漏洞的漏洞扫描)
@@ -122,11 +119,8 @@ author: Hannoch
 · https://github.com/Hadesy2k/sqliv
 (大规模sql注入漏洞扫描器)
 
-· https://github.com/UltimateHackers/sqlmate
-(sqlmap的一个朋友，它将做您一直期望的sqlmap)
-
 · https://github.com/m8r0wn/enumdb
-(MySQL和MSSQL蛮力和开发后工具)
+(MySQL和MSSQL爆破和开发后工具)
 
 # 三、弱密码/用户扫描器或枚举工具
 
